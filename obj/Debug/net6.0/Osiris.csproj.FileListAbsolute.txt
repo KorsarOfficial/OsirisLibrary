@@ -1,0 +1,15 @@
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\Osiris.exe
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\Osiris.deps.json
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\Osiris.runtimeconfig.json
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\Osiris.dll
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\Osiris.pdb
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.csproj.AssemblyReference.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.GeneratedMSBuildEditorConfig.editorconfig
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.AssemblyInfoInputs.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.AssemblyInfo.cs
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.csproj.CoreCompileInputs.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.dll
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\refint\Osiris.dll
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.pdb
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\Osiris.genruntimeconfig.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\ref\Osiris.dll

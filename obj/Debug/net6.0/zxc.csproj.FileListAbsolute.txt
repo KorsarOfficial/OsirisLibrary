@@ -1,0 +1,15 @@
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\zxc.exe
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\zxc.deps.json
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\zxc.runtimeconfig.json
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\zxc.dll
+D:\zxc vs\zxc\zxc\bin\Debug\net6.0\zxc.pdb
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.csproj.AssemblyReference.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.GeneratedMSBuildEditorConfig.editorconfig
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.AssemblyInfoInputs.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.AssemblyInfo.cs
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.csproj.CoreCompileInputs.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.dll
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\refint\zxc.dll
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.pdb
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\zxc.genruntimeconfig.cache
+D:\zxc vs\zxc\zxc\obj\Debug\net6.0\ref\zxc.dll
